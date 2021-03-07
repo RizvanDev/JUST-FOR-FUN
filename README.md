@@ -1,2 +1,2 @@
-# JUST-FOR-FUN
- 
+# training page for github
+___ 
